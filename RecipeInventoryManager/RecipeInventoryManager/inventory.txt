@@ -1,0 +1,11 @@
+Item	| Amount| Cost
+
+milk	|1	|$2.35
+butter	|2	|$4.9
+bread	|1	|$1.25
+salt	|1	|$0.79
+macnchz	|4	|$6.08
+rigatni	|1	|$1.23
+pesto	|1	|$3.45
+tomato	|6	|$4.02
+mozzchz	|2	|$9.58

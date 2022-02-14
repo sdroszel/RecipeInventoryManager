@@ -1,0 +1,21 @@
+Recipe Name:
+
+	mac and cheese
+
+Ingredients:
+
+	- Box of mac and cheese
+	- 6 cups water
+	- 4 tbsp butter
+	- 0.5 cup milk
+
+Instructions:
+
+	1. Bring water to a boil
+	2. Stir in macaroni
+	3. Cook 8 minutes, stirring occasionally
+	4. Drain noodles
+	5. Return noodles to pot
+	6. Add milk, butter, and cheese packet
+	7. Mix well
+	8. Serve and enjoy!

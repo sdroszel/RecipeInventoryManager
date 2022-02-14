@@ -1,0 +1,22 @@
+Recipe Name:
+
+	baked rigatoni
+
+Ingredients:
+
+	- rigatoni
+	- pesto
+	- crushed tomatoes
+	- mozzarella cheese
+
+Instructions:
+
+	1. Preheat oven to 400 degrees
+	2. Bring a pot of water to a boil
+	3. Cook pasta
+	4. Drain pasta
+	5. Add pasta, pesto, and crushed tomatoes to bowl
+	6. Stir to combine
+	7. Layer pasta mix and cheese in 13x9 pan
+	8. Bake 20 minutes
+	9. Serve and enjoy!

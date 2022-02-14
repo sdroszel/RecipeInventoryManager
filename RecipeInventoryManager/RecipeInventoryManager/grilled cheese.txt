@@ -1,0 +1,20 @@
+Recipe Name:
+
+	grilled cheese
+
+Ingredients:
+
+	- 2 slices bread
+	- cheese
+	- butter
+
+Instructions:
+
+	1. Preheat pan
+	2. Butter the bread
+	3. Add slice of bread butter side down in pan, add cheese, top with slice of bread
+	4. cook until golden brown
+	5. Flip sandwich
+	6. Cook other side until golden brown
+	7. remove from pan
+	8. Cut and enjoy!
